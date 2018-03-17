@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "sunilpai.com/"
+baseurl = "/"
 
 # Title of your site
 title = "Sunil Pai"
@@ -42,9 +42,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "ocean"
+  color_theme = "default"
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "default"
   name = "Sunil Pai"
   role = "PhD Candidate"
   organizations = [
