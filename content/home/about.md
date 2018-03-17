@@ -36,10 +36,11 @@ weight = 1
  
 +++
 
-# About me
+# About Me
 
 I'm an Electrical Engineering PhD Candidate at Stanford University.
 I am interested currently in nanophotonic computing, specifically the development of nanophotonic elements for machine learning and optimization applications.
 My project is currently in an early stage and focuses specifically on:
-1. theoretical limits of silicon Mach Zehnder interferometer (MZI) meshes (size and energy efficiency) for deep learning and model deployment
-2. fabrication of MEMS phase shifters to minimize energy usage and miniaturize the MZI design for scalable nanophotonic machine learning.
+
+ 1. theoretical limits of silicon Mach Zehnder interferometer (MZI) meshes (size and energy efficiency) for deep learning and model deployment
+ 2. fabrication of MEMS phase shifters to minimize energy usage and miniaturize the MZI design for scalable nanophotonic machine learning.
