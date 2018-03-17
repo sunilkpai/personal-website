@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
     } 
     ]
   gravatar = false
-  avatar = ""
+  avatar = "portrait.jpg"
   email = "sunilpai@stanford.edu"
   address = ""
   office_hours = ""
